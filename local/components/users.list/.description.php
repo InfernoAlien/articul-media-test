@@ -6,8 +6,8 @@ use Bitrix\Main\Localization\Loc as Loc;
 Loc::loadMessages(__FILE__);
 
 $arComponentDescription = array(
-    "NAME" => Loc::getMessage('STANDARD_ELEMENTS_LIST_DESCRIPTION_NAME'),
-    "DESCRIPTION" => Loc::getMessage('STANDARD_ELEMENTS_LIST_DESCRIPTION_DESCRIPTION'),
+    "NAME" => Loc::getMessage('USERS_LIST_DESCRIPTION_NAME'),
+    "DESCRIPTION" => Loc::getMessage('USERS_LIST_DESCRIPTION_DESCRIPTION'),
 );
 
 ?>
