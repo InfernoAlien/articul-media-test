@@ -1,0 +1,20 @@
+summary {
+    font-weight: 700;  /* жирный шрифт метки */
+    cursor: pointer;  /* курсор на метке имеет вид руки */
+}
+
+summary:hover {
+    color: #ff7326;  /* изменение цвета метки при наведении */
+}
+
+summary:focus {
+    outline: unset;
+}
+
+details {
+    padding: 10px;
+}
+
+details p {
+    margin: 10px;
+}

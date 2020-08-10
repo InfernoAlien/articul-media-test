@@ -1,0 +1,52 @@
+# IDEs #
+########
+*.sublime-project
+*.sublime-workspace
+/.idea/
+/.vscode/
+
+# Static content #
+###################
+*.csv
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.xml
+*.txt
+!robots.txt
+!robots_*.txt
+*.wav
+*.mp3
+*.avi
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.tgz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.phar
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Project #
+###########
+bitrix/
+upload/
+local/storage/export/*
+!local/storage/export/.gitkeep
+
+

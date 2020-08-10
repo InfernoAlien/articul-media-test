@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME" => "Articul Media", "DESCRIPTION" => "Чистый шаблон для демонстрации тестового задания");?>
